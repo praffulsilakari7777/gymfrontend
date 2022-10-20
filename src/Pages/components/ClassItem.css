@@ -1,0 +1,170 @@
+/* .user-item {
+
+
+
+  list-style: none;
+  margin: 0rem auto;
+  padding: 0;
+  width: 100%;
+  max-width: 40rem;
+  
+}
+
+.user-item1 {
+
+
+
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  
+  
+}
+
+.user-item a {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 70px;
+  text-decoration: none;
+  padding: 1rem;
+  color: rgb(0, 0, 0);
+  background: #ffffff;
+}
+
+.user-item a:hover,
+.user-item a:active {
+  background: #e2e4eb;
+ }
+
+.user-item__content {
+  padding: 0;
+  
+}
+
+.user-item__image {
+  width: 3rem;
+  height: 3rem;
+  margin-right: 1rem;
+}
+
+.user-item__imageL {
+  width: 3rem;
+  height: 3rem;
+  position:absolute;
+  margin-left: 80%;
+}
+
+.user-item__info h2 {
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem 0;
+  font-weight: normal;
+  color: #ffd900;
+  
+}
+
+.user-item:hover h2,
+.user-item:active h2,
+.user-item:hover h3,
+.user-item:active h3 {
+  color: #292929;
+
+}
+
+.user-item__info h3,
+.user-item__info h4,
+.user-item__info p {
+  margin: 0;
+}
+
+
+.place-item {
+  margin: 1rem 0;
+}
+
+.place-item__content {
+  padding: 0;
+}
+
+.place-item__info {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.place-item__image {
+  width: 100%;
+  height: 12.5rem;
+  margin-right: 1.5rem;
+}
+
+.place-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.place-item__info h2,
+.place-item__info h3
+ {
+  color: #000000DE;
+  font-family: 'Roboto', sans-serif;;
+  font-size: 24px;
+  margin: 0px 0px 8.4px;
+  text-align: justify;
+text-justify: inter-word;
+
+}
+
+.place-item__info h4 {
+  color: #000000DE;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 15px;
+  margin: 0px 0px 8.4px;
+  text-align: justify;
+text-justify: inter-word;
+}
+
+.place-item__info p {
+  color: #0000008A;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  margin: 0px 0px 8.4px;
+  text-align: justify;
+text-justify: inter-word;
+}
+
+.place-item__actions {
+  padding: 8px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+ 
+}
+
+.place-item__modal-content {
+  padding: 0;
+}
+
+.place-item__modal-actions {
+  text-align: right;
+  margin: 0.5rem;
+
+}
+
+.place-item__actions button,
+.place-item__actions a {
+  margin: 0.5rem;
+}
+
+
+.map-container {
+  height: 10rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .place-item__image {
+    height: 20rem;
+  } 
+}
+
+ */
